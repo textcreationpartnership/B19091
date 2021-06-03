@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for putting the lawes against Jesuites, Seminaries, and Popish priests, in execution.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19091</idno><idno type="EEBO-CITATION">99885356</idno>
+  <idno type="VID">189736</idno>
+  <idno type="EEBO-PROQUEST">2264214885</idno>
+  
+            <idno type="STC">Wing C2592</idno>
+            <idno type="STC">STC 9175</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[8]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[1]</idno>
+            <idno type="PROQUEST">ocm99885356</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885356e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189736)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[9]; C18:1[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for putting the lawes against Jesuites, Seminaries, and Popish priests, in execution.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Majesty: and by the assigns of John Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1640 [i.e. 1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at His Majesties palace of VVestminster, the eighth day of March, in the sixteenth yeer of His Majesties reign".</note>
+                  <note>Arms 24; Steele notation: Com-  men  2) this  3) re- their.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Filmed copy of one continuous sheet.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Jesuits --  England --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:189736:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles I</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>❧ By the King. ❧ A Proclamation for putting the Lawes against Jesuites, Seminaries, and Popish Priests, in Execution.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas His Majesties loyall Subjects, the Lords and</hi> Com<g ref="char:EOLhyphen"/>mons in this present Parliament assembled, have humbly repre<g ref="char:EOLhyphen"/>sented unto His Majesties gracious consideration, that all Iesu<g ref="char:EOLhyphen"/>ites and Priests ordained by authority from the See of <hi>Rome,</hi> re<g ref="char:EOLhyphen"/>maining in this Realm, by a Statute made in the seven and twen<g ref="char:EOLhyphen"/>tieth yeer of the Reign of Queen <hi>Elizabeth,</hi> are declared Traitors, and to suffer as Traitors, which Law is not so rigorous as some men apprehend, or would make others to beleeve, for that it is restrained to naturall born Subjects, and doth not extend to any strangers at all, and that the said Statute is not onely approved, but by the Iudgement of severall Parliaments ad<g ref="char:EOLhyphen"/>judged fit and necessary to be put in execution: And that they conceive the not putting of these Statutes in execution against Iesuites and Priests, is a principall cause of the increase of Popery; And that the putting of these Laws in execution tendeth not onely to the pre<g ref="char:EOLhyphen"/>servation and advancement of the true Religion established in this Kingdom, but also to the safety of the Kings Person, and security of the State and Government, which were princi<g ref="char:EOLhyphen"/>pall causes of the making of these Laws against Iesuites and Priests: And that it appears by these Laws, that the Iesuites and Priests have come hither, not onely to draw the Sub<g ref="char:EOLhyphen"/>jects from their due obedience to the King, but also to stir up Sedition, Rebellion, and open Hostility within this Realm, to the great endangering of the safety of the Kings Royall Person, and to the utter ruine, desolation, and overthrow of the whole Realm, if not time<g ref="char:EOLhyphen"/>ly prevented: And that Iesuites and Priests did dayly withdraw many of the Kings Subjects from the true service of Almighty God, and the Religion established within this Realm, to the Romish Religion, and from their obedience to the King, and had perswaded divers Recusants and Papists, and encouraged and emboldned them to commit most dam<g ref="char:EOLhyphen"/>nable Treasons, tending to the overthrow of Gods true Religion, destruction of the King and His Royall Issue, and the subversion of the whole State, if God of his Goodnesse and Mercy had not then within few houres before the intended time of the execution thereof, revealed and disclosed the same: And that (considering the state and condition of this pre<g ref="char:EOLhyphen"/>sent time, wherein they finde Iesuites and Priests in so great abundance, and to appear here with such boldnesse and confidence, as if there were no Laws made against them) they do think the said Laws now more necessary to be put in strict execution, then at any time before.</p>
+            <p>His Majestie having taken into His serious consideration the Representation so made, and accepting with much contentment the great care of His said loyall Subjects, for the preser<g ref="char:EOLhyphen"/>vation of the true Religion established as aforesaid in this Kingdom, from which He will ne<g ref="char:EOLhyphen"/>ver depart, as also their tendernesse of His safety, and security of His State and Go<g ref="char:EOLhyphen"/>vernment, and firmely resolving to be carefull and vigilant that Popery or Superstition shall not any way increase within this Kingdom, or any other His Dominions, and to pro<g ref="char:EOLhyphen"/>vide against the dangers of Iesuites, Seminaries, and Priests, by putting the Lawes made against them into execution;</p>
+            <p>His Majestie doth therefore hereby straitly charge and command all manner of Iesuites, Seminaries, and Priests whomsoever, now out of Prison, made or ordained by any power or authority derived, challenged, or pretended from the See of <hi>Rome,</hi> hereby to take notice, that His Majesties absolute command and pleasure is, that they, and every of them do before the seventh day of April next ensuing the date hereof, depart forth of this His Realm of <hi>England</hi> and Dominion of <hi>Wales,</hi> and out of all other His Majesties Realms and Domi<g ref="char:EOLhyphen"/>nions, upon pain to incurre the uttermost danger, and penaltie of His said Lawes; Ad<g ref="char:EOLhyphen"/>monishing, and assuring all such Iesuites, Seminaries, and Priests, of what sort soever, that if any of them shall be after the said seventh day of April taken within this Realm, or any other His Majesties Realms or Dominions, or departing now upon this His Majesties pleasure signified, shall at any time hereafter return into this His Majesties Realm of <hi>England,</hi> or any other His Majesties Realms or Dominions, that they shall be left to the uttermost penaltie, and receive and suffer the judgement and execution of the Lawes here being in force concerning them, without hope of any favour or remission from His Majestie;
+<pb facs="tcp:189736:2"/> And that for that purpose it shall be lawfull to all the Officers of His Majesties Ports, to suffer them and every of them to depart from thence into any Forraign parts between this and the said seventh day of April.</p>
+            <p>Wherefore His Majestie hereby straitly chargeth and commandeth all Archbishops, Bi<g ref="char:EOLhyphen"/>shops, Lieutenants, Iudges, Iustices of Assize, and Iustices of Peace, and all other His Majesties Officers and Ministers whomsoever, within this His Majesties Realm of <hi>England</hi> and Dominion of <hi>Wales,</hi> and all other His Majesties Realms and Dominions, to be from time to time vigilant and carefull, after the said seventh day of April, to do their duties and diligence, in discovering and apprehending of, and in putting into execution the said Lawes against such Iesuites, Seminaries, and Priests, as shall presume to re<g ref="char:EOLhyphen"/>main in this His Majesties Realm of <hi>England</hi> or Dominion of <hi>Wales,</hi> or any other His Realms or Dominions, contrary to the said Lawes, and His Majesties Royall pleasure and command herein declared.</p>
+            <p>Provided alwayes, and His Majesties intention is (which he doth hereby declare) that this His Majesties Proclamation, do not extend to Priests that do, or shall from time to time attend upon the person of His dearest Consort the Queen, according to the Treatie of His Majesties Marriage, the names of which Priests shall be set down, and signified by His Majesties said dearest Consort, under her great Seal, and such signification inrolled in His Majesties Court of Kings Bench.</p>
+            <p>And His Majesties further will and pleasure is, and His Majestie doth hereby declare, that such Iesuites, Seminaries, and Priests, as are now in prison, shall within one moneth after their inlargement depart out of this Realm, and all other His Majesties Realms and Dominions, upon pain to incurre the uttermost danger and penaltie of the said Lawes; Admonishing, and assuring all such Iesuites, Seminaries, and Priests, of what sort soever, that if any of them shall be after the said moneth next following their inlargement, taken within this Realm, or any other His Majesties Realms and Dominions, or departing after such moneth as aforesaid, shall at any time hereafter return into this His Majesties Realm of <hi>England,</hi> or any other His Majesties Realms or Dominions, that they shall also be left to the uttermost penaltie, and receive and suffer the judgement and execution of the Lawes here being in for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e concerning them, without hope of any <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or remission from His Majestie.</p>
+            <p>And to that purpose it shall be also lawfull to all the Officers of His Majesties Ports to suffer them and every of them, to depart from thence into any Forraign parts within the said moneth after their inlargement as aforesaid.</p>
+            <p>And His Majestie is resolved that concerning those that are in prison, a speedie proceeding in course of Iustice shall be had for their deliverance, and their receiving of His Majesties mercy, and for the execution of the Lawes against them, as His Majestie shall finde their severall and respective cases to deserve.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at His Majesties Palace of VVestminster,</hi>
+                  <date>
+                     <hi>the eighth day of March, in the sixteenth yeer of His Majesties Reign of Great Britain, France, and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>❧ <hi>God save the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most excellent Majesty: And by the Assignes of JOHN BILL. 1640.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
